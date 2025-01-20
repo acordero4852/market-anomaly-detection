@@ -4,7 +4,7 @@
 
 - **Data Loading and Cleaning**: Load the market dataset, handle missing values, and perform data preprocessing.
 - **Exploratory Data Analysis (EDA)**: Generate descriptive statistics and visualizations to understand data distribution and relationships.
-- **Correlation Analysis**: Compute and visualize the correlation matrix to identify relationships between features.
+- **Correlation Analysis**: Compute and visualize the correlation matrix (could maybe say correlation heatmap here?) to identify relationships between features.
 - **Feature Engineering**: Create new features and select important ones for model training.
 - **Model Training**: Train multiple machine learning models (e.g., Logistic Regression, Random Forest, Isolation Forest) to detect market anomalies.
 - **Model Evaluation**: Evaluate model performance using classification reports and other metrics.
